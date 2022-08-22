@@ -1,0 +1,32 @@
+TODO's:
+----------------------------------------------------------------------------------------------
+ - User search imput field
+ - Display list of decks with names and image
+ - 
+
+
+
+Outline:
+----------------------------------------------------------------------------------------------
+Archidekt Wrapped
+ - User enters their Archidekt ID
+ - Displays user list of their commander decks and option to exude any of them from the report
+ - The REPORT:
+ --- Favorite Color (By devotion):
+ ----- Sum up all cards mana pips which theros god most devoted to
+ --- Average CMC (-lands):
+ ----- Average CMC accross decks
+ --- Saltiest deck/cards:
+ ----- Average salt score of all cards in deck
+ --- Crown Jewel:
+ ----- Most Expensive Card (TCGplayer AVG)
+ --- Which guild are you?
+ ----- Multi-colored cards/ or Ravnica cards
+ --- https://www.youtube.com/watch?v=_7kzF5d6aOY
+
+
+Notes:
+----------------------------------------------------------------------------------------------
+7.4.22
+ - Created output of users Commander decks and attached art/name
+ - Next, create dynamic display (ie enter username return list)
